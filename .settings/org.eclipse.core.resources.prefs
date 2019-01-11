@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/admin/dao/ThongKeDAO.java=UTF-8
+encoding//src/controller/DangNhapController.java=UTF-8
+encoding//src/controller/DangXuatController.java=UTF-8
+encoding//src/controller/XuLyMuaHang.java=UTF-8
+encoding//src/controller/XuLyQuenMK.java=UTF-8
+encoding//src/controller/XuatDonHangController.java=UTF-8
+encoding//src/dao/DaNgonNguDAO.java=UTF-8
+encoding//src/dao/KhachHangDao.java=UTF-8
+encoding//src/model/ConnectionDB.java=UTF-8

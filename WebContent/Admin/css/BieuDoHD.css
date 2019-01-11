@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+*{
+	
+}
+
+ul.legend {
+    /* height: 30px; */
+}
+
+.legend li {height: 31px;width: 150px;}
+
+.fig0 {
+    /* background: #FF9800 url(../img/bar-01-bg.gif) 0 0 repeat-y; */
+    background: coral;
+}

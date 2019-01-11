@@ -1,0 +1,148 @@
+
+    .form-label-left{
+        width:150px !important;
+    }
+    .form-line{
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+    .form-label-right{
+        width:150px !important;
+    }
+    body, html{
+        margin:0;
+        padding:0;
+        background:rgba(255,255,255);
+    }
+
+    .form-all{
+        margin:0px auto;
+        padding-top:20px;
+        width:550px;
+        color:rgb(255, 255, 255) !important;
+        font-family:'Muli';
+        font-size:16px;
+    }
+    .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{
+        color: rgb(0,0,0);
+    }
+
+
+
+
+    /* Injected CSS Code */
+/*PREFERENCES STYLE*/
+    .form-all {
+      font-family: Muli, sans-serif;
+    }
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+      font-family: Muli, sans-serif;
+    }
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+      font-family: Muli, sans-serif;
+    }
+    .form-header-group {
+      font-family: Muli, sans-serif;
+    }
+    .form-label {
+      font-family: Muli, sans-serif;
+    }
+  
+    .form-label.form-label-auto {
+      
+    display: inline-block;
+    float: left;
+    text-align: left;
+  
+    }
+  
+    .form-line {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  
+    .form-all {
+      width: 550px;
+    }
+  
+    .form-label-left,
+    .form-label-right {
+      width: 150px
+    }
+  
+    .form-all {
+      font-size: 16px
+    }
+    .form-all .qq-upload-button,
+    .form-all .qq-upload-button,
+    .form-all .form-submit-button,
+    .form-all .form-submit-reset,
+    .form-all .form-submit-print {
+      font-size: 16px
+    }
+    .form-all .form-pagebreak-back-container,
+    .form-all .form-pagebreak-next-container {
+      font-size: 16px
+    }
+  
+    .supernova .form-all, .form-all {
+      background-color: rgb(112	,112	,112);
+      border: 1px solid transparent;
+    }
+  
+    .form-all {
+      color: rgb(255, 255, 255);
+    }
+    .form-header-group .form-header {
+      color: rgb(255, 255, 255);
+    }
+    .form-header-group .form-subHeader {
+      color: rgb(255, 255, 255);
+    }
+    .form-label-top,
+    .form-label-left,
+    .form-label-right,
+    .form-html,
+    .form-checkbox-item label,
+    .form-radio-item label {
+      color: rgb(255, 255, 255);
+    }
+  
+    .supernova {
+      background-color: rgb(195, 195, 195);
+    }
+    .supernova body {
+      background: transparent;
+    }
+  
+    .form-textbox,
+    .form-textarea,
+    .form-radio-other-input,
+    .form-checkbox-other-input,
+    .form-captcha input,
+    .form-spinner input {
+      background-color: rgba(255, 255, 255, 0);
+    }
+  
+      .supernova {
+        height: 100%;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: center top;
+      }
+      .supernova {
+        background-image: url("https://www.jotform.com/uploads/EltonCris/form_files/emma.jpg");
+      }
+      #stage {
+        background-image: url("https://www.jotform.com/uploads/EltonCris/form_files/emma.jpg");
+      }
+    
+    .form-all {
+      background-image: none;
+    }
+  /*PREFERENCES STYLE*//*__INSPECT_SEPERATOR__*/
+    /* Injected CSS Code */

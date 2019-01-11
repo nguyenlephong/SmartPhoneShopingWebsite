@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+*{
+}
+td {
+    text-align: center;
+}
+
+th.sorting {
+    text-align: center;
+}
+
+th.sorting {}
+
+button.btn.btn-success {
+    float: right;
+    margin-right: 36px;
+}

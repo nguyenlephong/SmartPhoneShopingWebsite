@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+*{
+	
+}
+
+th.sorting_asc {
+    text-align: -webkit-center;
+}
+
+th.sorting {
+    text-align: center;
+}
+
+tr {
+    text-align: center;
+}
+
+tr {}
+
+button.btn.btn-success {
+    /* align-items: flex-end; */
+}
