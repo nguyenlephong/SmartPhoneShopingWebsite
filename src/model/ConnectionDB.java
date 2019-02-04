@@ -15,7 +15,7 @@ public class ConnectionDB {
 //			Class.forName("com.mysql.jdbc.Driver");
 //			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/shopphonechuan","root","abcdabcd");
 			Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-			conn = DriverManager.getConnection("jdbc:sqlserver://shopphoneltw.database.windows.net:1433;database=Shopphone;user=shopphone@shopphoneltw;password=Admin1234;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30");
+			conn = DriverManager.getConnection("jdbc:sqlserver://shopphoneltw.database.windows.net:1433;database=Shopphone;user=shopphone@shopphoneltw;password="yourpass";encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30");
 		
 		} catch (SQLException | ClassNotFoundException e) {
 			System.out.println("Success: ");
